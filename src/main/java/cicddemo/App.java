@@ -3,7 +3,7 @@ package cicddemo;
 
 public class App 
 {
-    private static String VERSION = "v2.0;
+    private static String VERSION = "v3.0";
 
     public static void main( String[] args ) {
         App app = new App();
